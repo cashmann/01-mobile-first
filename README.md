@@ -4,7 +4,11 @@
 
 ## Code Wars Challenge
 
-Complete [today's Kata](https://www.codewars.com/kata/abbreviate-a-two-word-name) and follow the submission instructions below.
+1. Sign up for an account at Code Wars.
+2. Join the **DeltaV Code School** clan.
+3. Follow the instructions in [CODE_CHALLENGE.md](CODE_CHALLENGE.md) to set up your GitHub repository for your Katas.
+
+4. Complete [today's Kata](https://www.codewars.com/kata/abbreviate-a-two-word-name) and follow the submission instructions below.
 
 ## Code Wars Challenge Submission Instructions
 
